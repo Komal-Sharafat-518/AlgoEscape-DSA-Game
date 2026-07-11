@@ -1,0 +1,21 @@
+# Executables
+*.exe
+*.out
+
+# Visual Studio
+.vs/
+*.obj
+*.pdb
+*.ilk
+
+# VS Code
+.vscode/
+
+# Game data
+users.txt
+players.txt
+leaderboard.txt
+*_save.txt
+
+# Temporary files
+*.log
