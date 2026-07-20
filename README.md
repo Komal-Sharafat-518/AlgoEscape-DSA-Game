@@ -167,11 +167,27 @@ This project demonstrates practical implementation of:
 
 # 📸 Screenshots
 
+## 🏠 Main Menu
+
 ![Main Menu](screenshots/menu.png)
-![Gameplay](screenshots/1.png)
-![Gameplay](screenshots/error.png)
-![Final ](screenshots/end.png)
+
 ---
+
+## 🎮 Gameplay
+
+![Gameplay](screenshots/1.png)
+
+---
+
+## ⚠️ Error Screen
+
+![Error Screen](screenshots/error.png)
+
+---
+
+## 🏁 Final Screen
+
+![Final Screen](screenshots/end.png)
 
 # 🔮 Future Improvements
 
@@ -201,4 +217,3 @@ If you enjoyed this project, consider giving it a ⭐ on GitHub.
 =======
 # AlgoEscape-DSA-Game
 A C++ console-based adventure game that demonstrates core Data Structures and Algorithms concepts through interactive gameplay.
->>>>>>> dd32d59afa55c351cfd011d432b29fe3003ff60e
